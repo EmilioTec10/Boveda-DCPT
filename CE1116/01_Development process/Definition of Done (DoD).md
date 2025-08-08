@@ -1,9 +1,9 @@
 ---
-Fecha de creación: 2025-08-08 09:21
-Fecha de Modificación: 2025-08-08 09:21
+Last modification: 2025-08-08 09:21
 tags:
-  - ingeniería-de-software
-Tema: control-ciclo-vida-producto
+  - Scrum
+  - Requirements
+Tema: Development Process
 ---
 
 

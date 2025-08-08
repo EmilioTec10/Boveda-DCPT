@@ -1,9 +1,9 @@
 ---
-Fecha de creación: 2025-08-08 09:06
-Fecha de Modificación: 2025-08-08 09:06
+Last modification: 2025-08-08 09:06
 tags:
-  - requerimientos
-Tema: control-ciclo-vida-producto
+  - Requirements
+  - Scrum
+Tema: Development Process
 ---
 
 
@@ -15,9 +15,6 @@ An estimation technique in which team members assign story points to backlog ite
 - Uses numbered cards (usually Fibonacci sequence).
 
 ## 🔗 Connections
-- [[ ]]
-
-## 💡 Personal Insight (Optional)
-- 
-## 🧾 Resources (Optional)
-- 
+- [[Scrum]]
+- [[User Story]]
+- [[Product Backlog]]

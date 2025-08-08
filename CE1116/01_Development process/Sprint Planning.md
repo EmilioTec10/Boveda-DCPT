@@ -1,10 +1,10 @@
 ---
-Fecha de creación: 2025-08-08 12:54
-Fecha de Modificación: 2025-08-08 12:54
+Last modification: 2025-08-08 12:54
 tags:
-  - ingeniería-de-software
-  - requerimientos
-Tema: control-ciclo-vida-producto
+  - Sprint
+  - Scrum
+  - Requirements
+Tema: Development Process
 ---
 
 

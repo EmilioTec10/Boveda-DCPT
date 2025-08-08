@@ -1,9 +1,10 @@
 ---
-Fecha de creación: 2025-08-08 09:03
-Fecha de Modificación: 2025-08-08 09:03
+Last modification: 2025-08-08 09:03
 tags:
-  - requerimientos
-Tema: control-ciclo-vida-producto
+  - Requirements
+  - Sprint
+  - Scrum
+Tema: Development Process
 ---
 
 

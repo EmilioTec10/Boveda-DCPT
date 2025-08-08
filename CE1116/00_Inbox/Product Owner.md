@@ -1,10 +1,9 @@
 ---
-Fecha de creación: 2025-08-08 09:09
-Fecha de Modificación: 2025-08-08 09:09
+Last Modification: 2025-08-08 09:09
 tags:
-  - ingeniería-de-software
-  - implementación
-Tema: control-ciclo-vida-producto
+  - Sofware-Engineering
+  - Scrum
+Theme: Roles
 ---
 
 

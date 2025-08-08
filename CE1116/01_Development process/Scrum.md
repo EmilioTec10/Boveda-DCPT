@@ -1,10 +1,10 @@
 ---
-Fecha de creación: 2025-08-05 00:00
-Fecha de Modificación: 2025-08-05 00:00
+Last modification: 2025-08-05 00:00
 tags:
-  - "#ingeniería-de-software"
+  - Sofware-Engineering
+  - Agile
 Topic:
-  - procesos-desarrollo
+  - Development Process
 ---
 
 
@@ -12,11 +12,13 @@ Topic:
 
 A framework for Agile project management that organizes work into time-boxed iterations called sprints, promoting collaboration, adaptability, and delivery of value.
 ## 📌 Key points (Optional)
-- Sprints
+- Roles: Product Owner, Scrum Master, Development Team.
+- Events: Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective.
+- Artifacts: Product Backlog, Sprint Backlog, Increment.
 
 ## 🔗 Connections
 - [[Entrevistas]]
 - [[Product Backlog]]
 - [[Agile philosophy]]
-- 
+
 

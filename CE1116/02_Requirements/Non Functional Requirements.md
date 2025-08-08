@@ -1,14 +1,15 @@
 ---
-Fecha de creación: 2025-08-08 08:36
-Fecha de Modificación: 2025-08-08 08:36
+Last modification: 2025-08-08 08:36
 tags:
-  - requerimientos
-Tema: control-ciclo-vida-producto
+  - Requirements
+  - Agile
+  - Scrum
+Tema: Requirements
 ---
 
 
 ## 📚 Idea/Concept 
-Specifies quality criteria or restrictions that the system must fulfill.
+Specifies quality attributes, constraints, or conditions that the system must meet, focusing on how the system performs rather than what it does.
 
 ## 📌 Key points (Optional)
 - Security, performance, scalability, among others.

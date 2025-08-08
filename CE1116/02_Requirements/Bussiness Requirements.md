@@ -1,9 +1,11 @@
 ---
-Fecha de creación: 2025-08-07 21:33
-Fecha de Modificación: 2025-08-07 21:33
+Last modification: 2025-08-07 21:33
 tags:
-  - requerimientos
-Tema: control-ciclo-vida-producto
+  - Requirements
+  - Scrum
+  - Agile
+  - Company
+Tema: Requirements
 ---
 
 

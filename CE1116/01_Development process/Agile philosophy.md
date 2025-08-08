@@ -1,9 +1,8 @@
 ---
-Fecha de creación: 2025-08-08 08:44
-Fecha de Modificación: 2025-08-08 08:44
+Last modification: 2025-08-08 08:44
 tags:
-  - ingeniería-de-software
-Tema:
+  - Sofware-Engineering
+Tema: Development Process
 ---
 
 

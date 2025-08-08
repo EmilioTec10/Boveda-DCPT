@@ -1,21 +1,21 @@
 ---
-Fecha de creación: 2025-08-04 23:53
-Fecha de Modificación: 2025-08-04 23:53
-tags: 
-Topic:
+Last modification: 2025-08-08 13:03
+tags:
+  - Company
+  - Person
+  - Group
+Tema: Roles
 ---
 
 
-# Stakeholders
+## 📚 Idea/Concept 
+Organization, group, or person affected directly or indirectly by a project, product or service.
 
-
----
-
-## 📚 Idea/Concepto 
-
-Are all the people, groups or companies that get affected by a project or a service.
-## 
+## 📌 Key points (Optional)
+- Can be internal or external to the organization.
+- Involved at different stages of the project.
+- Include clients, users, sponsors, team members, and regulators.
 
 ## 🔗 Connections
-- [[ Scrum]]
-
+- [[Agile philosophy]]
+- [[Scrum]]

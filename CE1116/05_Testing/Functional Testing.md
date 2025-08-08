@@ -1,10 +1,9 @@
 ---
-Fecha de creación: 2025-08-08 12:56
-Fecha de Modificación: 2025-08-08 12:56
+Last modification: 2025-08-08 12:56
 tags:
-  - pruebas
-  - ingeniería-de-software
-Tema: monitoreo
+  - Testing
+  - Sofware-Engineering
+Tema: Testing
 ---
 
 
