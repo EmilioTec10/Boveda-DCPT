@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CE1116/03_Arquitecture and Design/Attention mechanism in the Transformer architecture.md",
+                "file": "CE1116/09_Cloud/Public IP Address.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Attention mechanism in the Transformer architecture"
+              "title": "Public IP Address"
+            }
+          },
+          {
+            "id": "b95ddae6f4faac56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/09_Cloud/Zone-Redundant Storage (ZRS).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zone-Redundant Storage (ZRS)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,14 +199,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c55268116330d4c",
+  "active": "b95ddae6f4faac56",
   "lastOpenFiles": [
+    "CE1116/09_Cloud/Geo-Redundant Storage (GRS).md",
+    "CE1116/09_Cloud/Horizontal and Vertical Scaling in the Cloud.md",
+    "CE1116/09_Cloud/Hybrid Cloud.md",
+    "CE1116/09_Cloud/IaaS vs PaaS vs SaaS.md",
+    "CE1116/09_Cloud/Locally Redundant Storage (LRS).md",
+    "CE1116/09_Cloud/Public IP Address.md",
+    "CE1116/09_Cloud/Virtual Private Cloud (VPC).md",
+    "CE1116/09_Cloud/Zone-Redundant Storage (ZRS).md",
+    "CE1116/09_Cloud",
+    "Untitled/desktop.ini",
+    "Untitled",
+    "CE1116/01_Development process/Planning Poker.md",
+    "CE1116/01_Development process/Definition of Done (DoD).md",
+    "CE1116/01_Development process/Agile philosophy.md",
+    "CE1116/03_Arquitecture and Design/Attention mechanism in the Transformer architecture.md",
     "CE1116/03_Arquitecture and Design/Context window of a model.md",
     "CE1116/03_Arquitecture and Design/Embedding.md",
     "CE1116/03_Arquitecture and Design/Large Language Models (LLMs).md",
     "CE1116/03_Arquitecture and Design/Neural network.md",
     "CE1116/03_Arquitecture and Design/Tokenization.md",
-    "CE1116/03_Arquitecture and Design/Attention mechanism in the Transformer architecture.md",
     "CE1116/03_Arquitecture and Design/Microservicios.md",
     "CE1116/00_Inbox/Product Owner.md",
     "CE1116/08_Templates/Atomic Template.md",
@@ -203,26 +231,12 @@
     "CE1116/05_Testing/Pruebas Unitarias.md",
     "CE1116/02_Requirements/System Requirements.md",
     "CE1116/02_Requirements/Non Functional Requirements.md",
-    "CE1116/02_Requirements/Functional Requirements.md",
-    "CE1116/02_Requirements/Entrevistas.md",
-    "CE1116/02_Requirements/Bussiness Requirements.md",
-    "CE1116/01_Development process/User Story.md",
-    "CE1116/01_Development process/Taskboard.md",
-    "CE1116/01_Development process/Sprint Planning.md",
-    "CE1116/01_Development process/Sprint Backlog.md",
-    "CE1116/01_Development process/Scrum.md",
-    "CE1116/01_Development process/Product Backlog.md",
-    "CE1116/01_Development process/Planning Poker.md",
-    "CE1116/01_Development process/Definition of Done (DoD).md",
     "Untitled.canvas",
     "CE1116/08_Templates",
     "CE1116/00_Inbox",
     "CE1116/07_Maintenance",
     "06_Maintenance",
-    "Untitled",
     "CE1116/06_Deployment and infrastructure",
-    "CE1116/05_Testing",
-    "CE1116/04_Implementation",
-    "CE1116/03_Arquitecture and Design"
+    "CE1116/05_Testing"
   ]
 }
